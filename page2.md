@@ -1,5 +1,5 @@
-<h1>Page 2</h1>
-<p>HTML links are defined with the a tag:</p>
+h1>HTML Part 2 Homework</h1>
+<p>Sunday, 20<sup>th</sup> of October 2019.</p>
 
-<a href="https://www.w3schools.com">This is a link</a>
-
+img src="https://www.tanzania-expeditions.com/wp-content/uploads/2014/05/africa-wildlife-giraffes-trees-sky-photo.jpg" alt="Sunset in African Safari">
+</p>

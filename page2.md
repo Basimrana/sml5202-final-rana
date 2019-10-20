@@ -17,5 +17,12 @@
 </p>
 
 <p>
+<table>
+  <tr><th>Country</th><th>GDP</th><th>Inflation</th></tr>
+   <tr><td>United States</td><td>3.5</td><td>1.8</td></tr>
+   <tr><td>United Kingdom</td><td>1.7</td><td>2.8</td></tr>
+   <tr><td>Canada</td><td>1.9</td><td>2.8</td></tr>
+</table>
+</p>
  
 

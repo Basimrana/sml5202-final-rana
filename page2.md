@@ -3,7 +3,6 @@
 
 <img src="https://www.tanzania-expeditions.com/wp-content/uploads/2014/05/africa-wildlife-giraffes-trees-sky-photo.jpg" alt="Sunset in African Safari">
 
-</p>
 <dl>
   <dt>Safari</dt>
   <dd>an expedition to observe animals in their natural habitat, especially in East Africa.</dd>

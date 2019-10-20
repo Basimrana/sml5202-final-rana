@@ -17,7 +17,7 @@
 <ol>
   <li>Italian Food</li>
   <li>Travelling around the world</li>
-  <li>Plauying Football</li>
+  <li>Playing Football</li>
 </ol>
 </p>
 

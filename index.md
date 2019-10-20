@@ -5,3 +5,11 @@
 <hr>
 <p>
 <h2>Section 2: To do list</h2>
+<ul>
+<li>Travel to Africa</li>
+<li>Meet Cristiano Ronaldo</li>
+<li>Visit the Natural History Museum</li>
+</ul>
+</p>                                                                                                                       
+<hr>
+<p>

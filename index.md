@@ -13,3 +13,10 @@
 </p>                                                                                                                       
 <hr>
 <p>
+<h2>Section 3: My three favourite things:</h2>
+<ol>
+  <li>Italian Food</li>
+  <li>Travelling around the world</li>
+  <li>Plauying Football</li>
+</ol>
+</p>

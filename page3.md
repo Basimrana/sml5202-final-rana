@@ -5,21 +5,35 @@
 </p>
 
 
+<h2>My First JavaScript</h2>
+<button onclick="makeSentence()">Click me</button>
 
-
-
-<h1>Change background colour</h1>
-
-<button type="button" onclick="myFunction()">Set background
-color</button>
-
+<p id="demo"></p>
 
 <script>
-var colors = ["red", "green", "blue", "purple"];
+function makeSentence() {
 
-function myFunction() {
-color = colors[Math.floor(Math.random() *
-colors.length)];
-document.body.style.backgroundColor = color;
+var person = {
+names: [ "Basim", "Rana", "Naseer", "Marvin", "Sam" ],
+verbs: [ "speaks", "eats", "runs", "walks", "drinks" ],
+adverbs: ["slowly", "quickly", "nicely", "noisily", "a lot" ]
+
+};
+
+var i;
+var text = "";
+for (i = 0; i < person.names.length; i++) {
+
+name = person.names[i];
+verb = person.verbs[Math.floor(Math.random() * person.verbs.length)];
+adv = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
+
+text +=name + " " + verb + " " + adv + "<br>";
+
+document.getElementById("demo").innerHTML = text;
 }
 
+
+}
+
+</script>

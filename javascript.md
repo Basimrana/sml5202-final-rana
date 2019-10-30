@@ -1,7 +1,7 @@
 <h1>Random Idiom using JSON</h1>
 
 <button type="button" class="new-quote button">Show Idiom</button>
-<dl id="quote"></d1>
+<dl id="quote"></dl>
 
 <script>
 const endpoint = 'https://basimrana.github.io/sml5202-basimrana/dataset/idioms.json';

@@ -97,7 +97,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 
 <div class="row">
   <div class="column">
-    <h2>BThe Ultimate Fairytale Castle: Neuschwanstein</h2>
+    <h2>The Ultimate Fairytale Castle: Neuschwanstein</h2>
     <p><img src="https://www.planetware.com/photos-large/D/germany-neuschwanstein-castle.jpg" /></p>
   </div>
   <div class="column">

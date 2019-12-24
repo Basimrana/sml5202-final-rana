@@ -9,11 +9,9 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 <img src="https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/63/3f/7a/untitled-design-281.jpg">
 </p>
 
-<h3>Popular attractions in Germany</h3>
+<h2>Popular attractions in Germany</h2>
 
+<h3>Berlin's Brandenburg Gate</h3>
 <p>
-Berlin's Brandenburg Gate
-</p>
-  <p>
 <img src="https://www.planetware.com/photos-large/D/germany-brandenburg-gate.jpg">
 </p>

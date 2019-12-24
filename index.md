@@ -107,6 +107,6 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 </div>
 
 <p>
-  <a href="page2.html">Page 2</a> <br>
+  <a href="aboutgermany.html">Page 2</a> <br>
   <a href="page3.html">Page 3</a>
 </p>

@@ -1,4 +1,4 @@
-<h1>A Guide to German Language</h1>
+<h1>Aim of Website and Outline</h1>
 
 <p>
 Welcome to my Website, the aim of this website is to allow users to learn and practice German Language and become fluent.

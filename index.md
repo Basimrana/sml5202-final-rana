@@ -105,3 +105,9 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
     <p>The quaint old town of Füssen, situated between the Ammergau and Allgäu Alps and a popular alpine resort and winter sports center, is a good base from which to explore nearby Neuschwanstein Castle, one of Europe's most famous (and picturesque) royal castles. King Ludwig II of Bavaria built this many-towered and battlement-covered fantasy fortress - the inspiration for Walt Disney's famous theme park castles - from 1869-86. A variety of tour options are offered, including guided tours of the sumptuous interior taking in the Throne Room, the Singers' Hall, and some of the country's most spectacular views.</p>
   </div>
 </div>
+
+
+<p>
+  <a href="aboutgermany.html">Page 2</a> <br>
+  <a href="germanvocabularly.html">Page 3</a>
+</p>

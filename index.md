@@ -11,7 +11,9 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 
 <h3>Popular attractions in Germany</h3>
 
-<p>Berlin's Brandenburg Gate>/p>
+<p>
+Berlin's Brandenburg Gate
+</p>
   <p>
 <img src="https://www.planetware.com/photos-large/D/germany-brandenburg-gate.jpg">
 </p>

@@ -108,5 +108,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>
-  <a href="page3.html">Page 3</a>
+  <a href="germanvocabularly.html">Page 3</a> <br>
+  <a href="famouspeople.html">Page 4</a> <br>
+  <a href="furtherstudy.html">Page 5</a>
 </p>

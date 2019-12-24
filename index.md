@@ -53,7 +53,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
     <p><img src="https://www.planetware.com/photos-large/D/germany-brandenburg-gate.jpg" /></p>
   </div>
   <div class="column">
-    <h2>Column 2</h2>
+  
     <p>Modeled on the Acropolis in Athens and built for King Frederick William II in 1791, the monumental sandstone Brandenburg Gate in Berlin's Mitte district was the city's first Neoclassical structure. Measuring an impressive 26 meters in height - including the Quadriga, the spectacular four-horse chariot carrying the goddess of victory perched atop - its six huge columns on each side of the structure form five impressive passages: four were used by regular traffic, while the center was reserved for the royal carriages. Huge Doric columns also decorate the two buildings at each side of the Gate, once used by toll-collectors and guards. Undoubtedly Berlin's most iconic structure, it's hard to believe that the majestic structure you see today was severely damaged during WWII and was also once part of the infamous Berlin Wall and, for a few decades, was symbolic of the division of Berlin into East and West.</p>
   </div>
 </div>

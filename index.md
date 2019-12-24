@@ -49,7 +49,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 
 <div class="row">
   <div class="column">
-    <h2>Column 1</h2>
+    <h2>Berlin's Brandenburg Gate</h2>
     <p><img src="https://www.planetware.com/photos-large/D/germany-brandenburg-gate.jpg" /></p>
   </div>
   <div class="column">

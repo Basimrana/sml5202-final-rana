@@ -41,9 +41,10 @@
 <div class="row">
   <div class="column">
     <h2>Facts in English</h2>
-    <p>< 1. Where is German spoken?
+    <p>1. Where is German spoken? <br>
+
 German is among the most widely spoken language in the European Union and is the official language in Germany, Austria and Liechtenstein. It's also one of the official languages of Switzerland and Luxembourg. There are other German-speaking communities scattered around Europe, such as in the Province of Bolzano-Bozen in Northern Italy and the Eastern part of Belgium, as well as communities in Eastern Europe, North and South America.
-      /></p>
+      </p>
   </div>
   <div class="column">
     <h2>Facts in German</h2>

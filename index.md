@@ -113,6 +113,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
 
 The website will have 5 pages in total. First Page being the home page followed by Second Page; which will enlist facts, popular attractions and thier history and will contain various H5P exercises to test users fluency and pronunciation of everyday speaking in Germany. Third Page will focus on German vocabularly which will contain numbers, verbs, days of week and local facilities to get around and so on. Each will contain audio as well as H5P exercises to test. Moving further, Page Four will educate users on famous German people and some interesting facts related to them, at the end of the page will be an H5P quiz to assess the knowledge of users on these people. Lastly, Page Five will contain links to other useful learning resources, with a brief description provided for each. 
 Most importantly, At the end of each page users can navigate to any page with one click making the site easier and convenient to use.
+</p>
 
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>

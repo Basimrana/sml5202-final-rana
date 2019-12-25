@@ -41,11 +41,12 @@
 <div class="row">
   <div class="column">
     <h2>Facts in English</h2>
-    <p>1. Where is German spoken? <br>
+    <p>
+<h2>1. Where is German spoken?>/h2> <br>
 
 German is among the most widely spoken language in the European Union and is the official language in Germany, Austria and Liechtenstein. It's also one of the official languages of Switzerland and Luxembourg. There are other German-speaking communities scattered around Europe, such as in the Province of Bolzano-Bozen in Northern Italy and the Eastern part of Belgium, as well as communities in Eastern Europe, North and South America. <br>
 
-2. German is part of the West Germanic languages, along with English and Dutch <br>
+2. <h2>German is part of the West Germanic languages, along with English and Dutch>/h2><br>
 
 With what is today’s Germany being divided up into numerous small states for centuries, German was standardised primarily by its literature, as writers sought to be understood by as many readers as possible. As Germany’s unification started during the 19th century, standards were adopted. The Deutsches Wörterbuch, today’s largest German dictionary in existence, was begun by the Brothers Grimm in 1838. <br>
 
@@ -64,6 +65,8 @@ Like most languages, Useful examples include: <br>
 Luftschloss: this word literally means “castle in the sky” and is used to describe someone’s unrealistic dream. <br>
 Blaumachen: similar to the expression “Blue Monday”, this words means ditching school or work. <br>
 Heimat: both a positive word and a very German concept, it describes the relationship between a person and his/her homeland. <br>
+
+<br>
 
 6. Until the mid-20th century, German was written using a different script of the Latin alphabet <br>
 

@@ -106,7 +106,7 @@ Welcome to my Website, the aim of this website is to allow users to learn and pr
   </div>
 </div>
 
-<h2>Outline and Purpose>h/2>
+<h2>Outline and Purpose>/h2>
 
 <p>
   The site’s main purpose is to facilitate improvement of German skills through various exercises and translations, beginners have exercises in their native language and target language, the site will allow users a platform to improve their level of German and test themselves consistently, the website aims to be straightforward and informative, contains enough information to practice as well as learn German, pronunciation videos and grammar explanations to aid in further strengthening the skills of users and are very useful for new learners. Multimedia coupled with a simple and intuitive layout of the website tests users’ cognitive abilities and aids in becoming proficient in German language.

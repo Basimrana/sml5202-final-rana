@@ -117,6 +117,7 @@ Most importantly, At the end of each page users can navigate to any page with on
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>
   <a href="germanvocabularly.html">Page 3</a> <br>
-  <a href="famouspeople.html">Page 4</a> <br>
-  <a href="furtherstudy.html">Page 5</a>
+  <a href="germanphrases.html">Page 4</a> <br>
+  <a href="famouspeople.html">Page 5</a> <br>
+  <a href="furtherstudy.html">Page 6</a>
 </p>

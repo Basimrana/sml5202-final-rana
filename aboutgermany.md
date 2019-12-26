@@ -122,4 +122,36 @@ Das Skript wurde als Fraktur-Skript bezeichnet. Diese Form der gotischen Schrift
 
 <h2>Practice the German alphabet</h2>
 <p> In Germany the alphabet has 26 letters, 3 umlauts (Ä,Ö,Ü) and one ligature (ß). Some letters are pronounced very similar to the English pronunciation, but some others are a little different. Just listen many times to the German letters and the sounds will become familiar. See the table below and try to become fluent with the German alphabet then try out an exercise to test your knowledge.</p>
+<br>
 
+<p>
+<table>
+  <tr><th>Alphabet</th><th>Pronunciation</th><th>German Word (With translation)</th></tr>
+   <tr><td>A</td><td>Ah</td><td>Arm (arm)</td></tr>
+   <tr><td>B</td><td>Beh</td><td>	Baby (baby)</td></tr>
+   <tr><td>C</td><td>Tseh</td><td>Celsius (celsius)</td></tr>
+   <tr><td>D</td><td>Deh</td><td>Debatte (debate)</td></tr>
+  <tr><td>E</td><td>Eh</td><td>Eskimo (eskimo)</td></tr>
+  <tr><td>F</td><td>Eff</td><td>Familie (family)</td></tr>
+  <tr><td>G</td><td>Geh</td><td>Gold (gold)</td></tr>
+  <tr><td>H</td><td>Hah</td><td>Haus (house)</td></tr>
+  <tr><td>I</td><td>Ih</td><td>Idee (idea)</td></tr>
+  <tr><td>J</td><td>Yott</td><td>Januar (january)</td></tr>
+  <tr><td>K</td><td>Kah</td><td>Kaffee (coffee)</td></tr>
+  <tr><td>L</td><td>Ell</td><td>Lampe (lamp)</td></tr>
+  <tr><td>M</td><td>Emm</td><td>Mutter (mother)</td></tr>
+  <tr><td>N</td><td>Enn</td><td>Nase (nose)</td></tr>
+  <tr><td>O</td><td>Oh</td><td>Ozean (ocean)</td></tr>
+  <tr><td>P</td><td>Peh</td><td>Pause (pause)</td></tr>
+  <tr><td>Q</td><td>Kuh</td><td>Quiz (quiz)</td></tr>
+  <tr><td>R</td><td>Err</td><td>Regen (rain)</td></tr>
+  <tr><td>S</td><td>Ess</td><td>Salami (salami)</td></tr>
+  <tr><td>T</td><td>Teh</td><td>Telefon (telephone)</td></tr>
+  <tr><td>U</td><td>Uh</td><td>Uhr (clock)</td></tr>
+  <tr><td>V</td><td>Fau</td><td>Vater (father)</td></tr>
+  <tr><td>W</td><td>Veh</td><td>Wilkommen (welcome)</td></tr>
+  <tr><td>X</td><td>Lks</td><td>X-Beine (knock-knees)</td></tr>
+  <tr><td>Y</td><td>Ypsilon</td><td>Yoga (yoga)</td></tr>
+  <tr><td>Z</td><td>Tzett</td><td>Zombie (zombie)</td></tr>
+</table>
+</p>

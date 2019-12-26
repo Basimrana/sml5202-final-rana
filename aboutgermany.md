@@ -75,6 +75,36 @@ The script was called the Fraktur script. This form of Gothic script was introdu
   </div>
   <div class="column">
     <h2>Facts in German</h2>
-    <p>???????????????????</p>
+    <p>1. Wo wird deutsch gesprochen? <br>
+
+Deutsch gehört zu den am häufigsten gesprochenen Sprachen in der Europäischen Union und ist Amtssprache in Deutschland, Österreich und Liechtenstein. Es ist auch eine der Amtssprachen der Schweiz und Luxemburgs. Es gibt weitere deutschsprachige Gemeinden in ganz Europa, beispielsweise in der Provinz Bozen in Norditalien und im Osten Belgiens sowie in Osteuropa, Nord- und Südamerika <br>
+<br>
+
+2. Deutsch gehört neben Englisch und Niederländisch zu den westgermanischen Sprachen; <br>
+
+Da das heutige Deutschland seit Jahrhunderten in zahlreiche Kleinstaaten unterteilt ist, wurde Deutsch vor allem durch die Literatur standardisiert, da Schriftsteller von möglichst vielen Lesern verstanden werden wollten. Mit dem Beginn der deutschen Einigung im 19. Jahrhundert wurden Standards verabschiedet. Das Deutsche Wörterbuch, das heute größte deutsche Wörterbuch, wurde 1838 von den Brüdern Grimm ins Leben gerufen. <br>
+<br>
+
+3. Deutsch wird von 95 Millionen Muttersprachlern weltweit gesprochen; <br>
+
+Deutsch ist die am häufigsten gesprochene Muttersprache der Europäischen Union. Der deutsche Sprachraum bezieht sich auf den deutschsprachigen Raum Mitteleuropas, der Deutschland, Österreich, die Schweiz und Liechtenstein umfasst. Es ist auch eine Amtssprache in Südtirol (Italien), Belgien und Luxemburg und eine Minderheitensprache in Bosnien und Herzegowina, der Tschechischen Republik, Dänemark, Ungarn, Polen, Rumänien und Namibia. <br>
+<br>
+4. Deutsch ist bekannt für die Verwendung langer Wörter; <br>
+
+Einige deutsche Wörter sind so lang, dass das längste deutsche Wort mittlerweile überholt ist: Das Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz (Gesetz über die Übertragung von Aufgaben zur Überwachung der Kennzeichnung von Rindern und zur Kennzeichnung von Rindfleisch) wurde für Bürokraten als zu unpraktisch angesehen. <bR>
+<br>
+5. Deutsch hat seine eigenen einzigartigen Wörter, die nicht in andere Sprachen übersetzt werden können; <br>
+
+Wie bei den meisten Sprachen sind auch hier nützliche Beispiele zu nennen: <br>
+
+Luftschloss: Dieses Wort bedeutet wörtlich "Schloss im Himmel" und wird verwendet, um den unrealistischen Traum eines Menschen zu beschreiben. <br>
+Blaumachen: Ähnlich wie der Ausdruck „Blauer Montag“ bedeutet dieses Wort, Schule oder Arbeit fallen zu lassen. <br>
+Heimat: sowohl ein positives Wort als auch ein sehr deutsches Konzept, es beschreibt die Beziehung zwischen einer Person und ihrem Heimatland. <br>
+<br>
+
+6. Bis zur Mitte des 20. Jahrhunderts wurde Deutsch in einer anderen lateinischen Schrift geschrieben; <br>
+
+Das Skript wurde als Fraktur-Skript bezeichnet. Diese Form der gotischen Schrift wurde im 16. Jahrhundert eingeführt und blieb bis zum Zweiten Weltkrieg in Gebrauch.
+</p>
   </div>
 </div>

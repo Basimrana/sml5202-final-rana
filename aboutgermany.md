@@ -122,7 +122,6 @@ Das Skript wurde als Fraktur-Skript bezeichnet. Diese Form der gotischen Schrift
 
 <h2>Practice the German alphabet</h2>
 <p> In Germany the alphabet has 26 letters, 3 umlauts (Ä,Ö,Ü) and one ligature (ß). Some letters are pronounced very similar to the English pronunciation, but some others are a little different. Just listen many times to the German letters and the sounds will become familiar. See the table below and try to become fluent with the German alphabet then try out an exercise to test your knowledge.</p>
-<br>
 
 <p>
 <table>

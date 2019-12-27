@@ -52,6 +52,7 @@ German verbs can fall in two categories:
 Weak verbs are regular verbs and their stem never changes.
 Strong verbs change their stem. The stem may only change in the past tense conjugation or in the present tense as well. <br>
 Let's see these two groups in more detail. <br>
+<br>
 German weak verbs; <br>
 As we've seen, weak verbs are entirely regular, and the good news is that the majority of German verbs fall in this category. To find their stem, you simply remove the -en or -n ending. Here are a few example verbs.</p>
 <p>
@@ -66,4 +67,20 @@ As we've seen, weak verbs are entirely regular, and the good news is that the ma
   <tr><td>arbeiten (to work)</td><td>arbeit-</td></tr>
 </table>
 <p> 
+<br>
+<p>German Strong verbs <br>
+Strong verbs are irregular verbs, so their stem can sometimes change depending on the tense. Let's take gehen, to go, as an example: its stem in the present tense is regular, geh-, but in the simple past tense it becomes ging-. Sometimes it's the stem in the past participle that changes, and other times the verb has an irregular stem in the present tense.</p>
+<p>
+<table>
+  <tr><th>Verb</th><th>Stem(present tense/past tense)</th></tr>
+   <tr><td>gehen</td><td>geh-/ging-/gegangen</td></tr>
+   <tr><td>kommen</td><td>komm-/kam-/gekommen</td></tr>
+   <tr><td>denken</td><td>denk-/dach-/gedacht</td></tr>
+   <tr><td>sehen</td><td>sieh-/sah-/gesehen</td></tr>
+  </table>
+</p>
+<br>
+<p>When you have the stem by itself, have a look at the table of verb endings for each tense and add the appropriate ending, according to who is performing the action. Simply breaking it down makes it easier to understand.</p>
+<br>
+<p>See below a sentence generator including names verbs and adverbs in German</p> 
 

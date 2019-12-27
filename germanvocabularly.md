@@ -120,3 +120,16 @@ document.getElementById("demo").innerHTML = text;
 <a href="https://www.youtube.com/watch?v=VFgreeRqSkg">25 must know German verbs</a>
 
 <h2>Days of the week</h2>
+<p>Learning German is easy if you approach it the right way, and the German days of the week are easy to learn too. Most of them are similar to English, and the rest aren't too hard to memorize. Below we will look at a table of German days of the week followed by pronunciations of each day. </p>
+<p>
+<table>
+  <tr><th>Day</th><th>German</th></tr>
+  <tr><td>Monday</td><td>Montag</td></tr>
+   <tr><td>Tuesday</td><td>Dienstag</td></tr>
+   <tr><td>Wednesday</td><td>Mittwoch</td></tr>
+   <tr><td>Thursday</td><td>Donnerstag</td></tr>
+  <tr><td>Friday</td><td>Freitag</td></tr>
+  <tr><td>Saturday</td><td>Samstag</td></tr>
+  <tr><td>Sunday</td><td>Sonntag</td></tr>
+</table>
+</p>

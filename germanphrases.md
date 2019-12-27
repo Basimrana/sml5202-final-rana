@@ -39,7 +39,7 @@ Let's end with the best way to end a pleasant conversation politely. This is ano
 </li>
 </ol>
 
-<p> Now listen to the audio below to learn how to pronounce these basic German phrases</p>
+<p> Now listen to the audio below and learn how to pronounce these basic German phrases</p>
 <audio controls>
   <source src="https://basimrana.github.io/sml5202-final-rana/assets/all.mp3" type="audio/mpeg">
   </audio>

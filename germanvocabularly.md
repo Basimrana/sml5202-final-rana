@@ -118,3 +118,5 @@ document.getElementById("demo").innerHTML = text;
 <a href="https://www.youtube.com/watch?v=AJxieXyATaY">German lesson on 100 verbs</a>
 <a href="https://www.youtube.com/watch?v=a0ddmj8N3ns">German verb pronunciations</a>
 <a href="https://www.youtube.com/watch?v=VFgreeRqSkg">25 must know German verbs</a>
+
+<h2>Days of the week</h2>

@@ -7,10 +7,39 @@ The secret is to learn German the smart way. Start with the most common German p
 
 <h2>Top 10 German phrases and sentences </h2>
 <ol>
-  <li>Guten Morgen. = Good morning.<br>
+  <li>Guten Morgen. = Good morning<br>
 If you find yourself in Austria it is always polite to say “Hi” every morning because German speakers are really sociable. “Good morning” in German is "Guten Morgen".
 </li>
-  <li>Travelling around the world</li>
-  <li>Playing Football</li>
+  <li>Guten Tag. = Good afternoon<br>
+But what if it's later in the day and you want to greet someone from Vienna? Well, “Good afternoon” in German is "Guten Tag".
+</li>
+  <li>Mein Name ist Basim. = My name is Basim<br>
+You are traveling to Munich and meet someone on the street. To introduce yourself you can say "Mein Name ist Basim" which means "My name is Basim" in German.
+</li>
+<li>Es freut mich, dich kennenzulernen. = I'm pleased to meet you<br>
+Now that you have introduced yourself, a German speaker would respond "Nett, Sie kennenzulernen" which means "I'm pleased to meet you" in German.
+</li>
+<li>Wie geht's? = How are you?<br>
+At this point, it might be polite to ask the person you are having a conversation with "How are you?" in German.
+</li>
+<li>Wo bist du? = Where are you?<br>
+German speakers are known to be really friendly, so it wouldn't be unusual to make a German friend during your travels. But friends are sometimes late to meetings in which case you might have to call them and ask "Where are you?" in German.
+</li>
+<li>Ich möchte ein Bier. = I'd like a beer<br>
+And because you might find yourself in a bar when visiting Berlin you might have to learn how to order a beer in German.
+</li>
+<li>Es tut mir leid. = I'm sorry<br>
+There are times when what you ordered is out of stock, so a bartender might say "Es tut mir leid" which means "I'm sorry" in German.
+</li>
+<li>Bis bald! = See you soon!<br>
+This is a good way of saying "See you soon" in German to a co-worker from Switzerland that you are probably going to see the next day.
+</li>
+<li>Tschüss. = Goodbye<br>
+Let's end with the best way to end a pleasant conversation politely. This is another way of saying "Goodbye" in German.
+</li>
 </ol>
-</p>
+
+<p> Now listen to the audio below to learn how to pronounce these basic German phrases</p>
+<audio controls>
+  <source src="https://basimrana.github.io/sml5202-final-rana/assets/all.mp3" type="audio/mpeg">
+  </audio>

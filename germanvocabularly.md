@@ -40,3 +40,30 @@ See below a table for counting in German 1-20 after which there will be a link p
 </p>
 <p>Follow the link below to an external website to further practice pronunciations</p>
 <a href="https://www.youtube.com/watch?v=JoMqhdYcgZ4">German counting 1-20</a>
+
+<h2>German Verbs and Adjectives</h2>
+<p>In order to understand verbs it is essential to break them down. In order to conjugate a verb, you first need to identify the verb stem. The stem is the part of the verb that, in most cases, remains constant. In German, you usually find the stem by taking the infinitive of the verb and removing the –en, or -n ending.
+
+German verbs can fall in two categories:
+<ul>
+<li>Weak (regular)</li>
+<li>Strong (irregular)</li>
+</ul>
+Weak verbs are regular verbs and their stem never changes.
+Strong verbs change their stem. The stem may only change in the past tense conjugation or in the present tense as well. <br>
+Let's see these two groups in more detail.
+German weak verbs; <br>
+As we've seen, weak verbs are entirely regular, and the good news is that the majority of German verbs fall in this category. To find their stem, you simply remove the -en or -n ending. Here are a few example verbs.</p>
+<p>
+<table>
+  <tr><th>Verb</th><th>Stem</th></tr>
+   <tr><td>machen (to do)</td><td>mach-</td></tr>
+   <tr><td>suchen (to search)</td><td>such-</td></tr>
+   <tr><td>brauchen (to need)</td><td>brauch-</td></tr>
+   <tr><td>bezahlen (to pay)</td><td>bezahl</td></tr>
+  <tr><td>kaufen (to buy)</td><td>kauf-</td></tr>
+  <tr><td>segeln (to sail)</td><td>segel-</td></tr>
+  <tr><td>arbeiten (to work)</td><td>arbeit-</td></tr>
+</table>
+<p> 
+

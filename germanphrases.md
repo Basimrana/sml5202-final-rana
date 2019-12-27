@@ -5,3 +5,12 @@ The secret is to learn German the smart way. Start with the most common German p
 
 <p>See below a list of common German expressions that will help you have a basic conversation in German in no time. Let's dig in!</p>
 
+<h2>Top 10 German phrases and sentences </h2>
+<ol>
+  <li>Guten Morgen. = Good morning.<br>
+If you find yourself in Austria it is always polite to say “Hi” every morning because German speakers are really sociable. “Good morning” in German is "Guten Morgen".
+</li>
+  <li>Travelling around the world</li>
+  <li>Playing Football</li>
+</ol>
+</p>

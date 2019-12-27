@@ -138,3 +138,7 @@ document.getElementById("demo").innerHTML = text;
   </audio>
 <p>Test your pronunciations with an H5P speak the word exercise</p>
 <iframe src="https://h5p.org/h5p/embed/685906" width="1090" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h2>Local attractions and getting around</h2>
+<p>Now that we have practiced verbs and pronunciation of German words, try out am H5P flashcards exercise to practice writing names of famous German attractions and where they are located.</p>
+<iframe src="https://h5p.org/h5p/embed/685909" width="1090" height="831" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

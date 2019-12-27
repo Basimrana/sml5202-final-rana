@@ -146,3 +146,10 @@ document.getElementById("demo").innerHTML = text;
 <h2>Food and Drink</h2>
 <p>Lets look at some famous German foods and try to practice the pronunciations</p>
 <iframe src="https://h5p.org/h5p/embed/685913" width="1090" height="831" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>
+  <a href="aboutgermany.html">Page 2</a> <br>
+  <a href="germanphrases.html">Page 4</a> <br>
+  <a href="famouspeople.html">Page 5</a> <br>
+  <a href="furtherstudy.html">Page 6</a>
+</p>

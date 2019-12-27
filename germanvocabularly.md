@@ -79,8 +79,7 @@ Strong verbs are irregular verbs, so their stem can sometimes change depending o
    <tr><td>sehen</td><td>sieh-/sah-/gesehen</td></tr>
   </table>
 </p>
-<br>
-<p>When you have the stem by itself, have a look at the table of verb endings for each tense and add the appropriate ending, according to who is performing the action. Simply breaking it down makes it easier to understand.</p>
-<br>
-<p>See below a sentence generator including names verbs and adverbs in German</p> 
 
+<p>When you have the stem by itself, have a look at the table of verb endings for each tense and add the appropriate ending, according to who is performing the action. Simply breaking it down makes it easier to understand.</p> <br>
+
+<p>See below a sentence generator including names verbs and adverbs in German</p> 

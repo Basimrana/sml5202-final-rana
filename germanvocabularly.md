@@ -10,3 +10,31 @@ Some learners find counting rudimentary, so they simply learn the numbers and mo
 <li>You may need, or want, to complete math and science classes in German</li>
 <li>Recipes written in German have lots of numbers and metrics</li>
 </ul>
+See below a table for counting in German 1-20 after which there will be a link provided to an external website to practice pronunciation
+</p>
+
+<p>
+<table>
+  <tr><th>Number</th><th>German</th><th>Pronunciation</th></tr>
+   <tr><td>1</td><td>eins</td><td>eyns</td></tr>
+   <tr><td>2</td><td>zwei</td><td>tsvey</td></tr>
+   <tr><td>3</td><td>drei</td><td>dry</td></tr>
+   <tr><td>4</td><td>vier</td><td>feer</td></tr>
+  <tr><td>5</td><td>fünf</td><td>fuhnf</td></tr>
+  <tr><td>6</td><td>sechs</td><td>zex</td></tr>
+  <tr><td>7</td><td>sieben</td><td>ZEE-bin</td></tr>
+  <tr><td>8</td><td>acht</td><td>akt</td></tr>
+  <tr><td>9</td><td>neun</td><td>noin</td></tr>
+  <tr><td>10</td><td>zehn</td><td>tsayn</td></tr>
+  <tr><td>11</td><td>elf</td><td>elf</td></tr>
+  <tr><td>12</td><td>zwölf</td><td>tsvolf</td></tr>
+  <tr><td>13</td><td>dreizehn</td><td>DRY-tsain</td></tr>
+  <tr><td>14</td><td>vierzehn</td><td>FEAR-tsain</td></tr>
+  <tr><td>15</td>fünfzehn<td></td><td>FUHNF-tsain</td></tr>
+  <tr><td>16</td><td>sechszehn</td><td>ZEX-tsain</td></tr>
+  <tr><td>17</td><td>siebzehn</td><td>ZEEB-tsain</td></tr>
+  <tr><td>18</td><td>achtzehn</td><td>AKT-tsain</td></tr>
+  <tr><td>19</td><td>neunzehn</td><td>NOIN-tsain</td></tr>
+  <tr><td>20</td><td></td>zwanzig<td>TSVAN-zig</td></tr>
+  </table>
+</p>

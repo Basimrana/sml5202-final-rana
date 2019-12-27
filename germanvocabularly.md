@@ -30,12 +30,12 @@ See below a table for counting in German 1-20 after which there will be a link p
   <tr><td>12</td><td>zwölf</td><td>tsvolf</td></tr>
   <tr><td>13</td><td>dreizehn</td><td>DRY-tsain</td></tr>
   <tr><td>14</td><td>vierzehn</td><td>FEAR-tsain</td></tr>
-  <tr><td>15</td>fünfzehn<td></td><td>FUHNF-tsain</td></tr>
+  <tr><td>15</td><td>fünfzehn</td><td>FUHNF-tsain</td></tr>
   <tr><td>16</td><td>sechszehn</td><td>ZEX-tsain</td></tr>
   <tr><td>17</td><td>siebzehn</td><td>ZEEB-tsain</td></tr>
   <tr><td>18</td><td>achtzehn</td><td>AKT-tsain</td></tr>
   <tr><td>19</td><td>neunzehn</td><td>NOIN-tsain</td></tr>
-  <tr><td>20</td><td></td>zwanzig<td>TSVAN-zig</td></tr>
+  <tr><td>20</td><td>zwanzig</td><td>TSVAN-zig</td></tr>
   </table>
 </p>
 <p>Follow the link below to an external website to further practice pronunciations</p>

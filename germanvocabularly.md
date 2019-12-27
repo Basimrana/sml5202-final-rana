@@ -80,6 +80,37 @@ Strong verbs are irregular verbs, so their stem can sometimes change depending o
   </table>
 </p>
 
-<p>When you have the stem by itself, have a look at the table of verb endings for each tense and add the appropriate ending, according to who is performing the action. Simply breaking it down makes it easier to understand.</p> <br>
-
+<p>When you have the stem by itself, have a look at the table of verb endings for each tense and add the appropriate ending, according to who is performing the action. Simply breaking it down makes it easier to understand.</p>
 <p>See below a sentence generator including names verbs and adverbs in German</p> 
+
+<button onclick="makeSentence()">Generate Sentence</button>
+
+<p id="demo"></p>
+
+<script>
+function makeSentence() {
+
+var person = {
+names: [ "Basim", "Rana", "Naseer", "Marvin", "Sam" ],
+verbs: [ "spricht", "isst", "läuft", "geht", "Getränke" ],
+adverbs: ["langsam", "schnell", "schön", "geräuschvoll", "viel" ]
+
+};
+
+var i;
+var text = "";
+for (i = 0; i < person.names.length; i++) {
+
+name = person.names[i];
+verb = person.verbs[Math.floor(Math.random() * person.verbs.length)];
+adv = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
+
+text +=name + " " + verb + " " + adv + "<br>";
+
+document.getElementById("demo").innerHTML = text;
+}
+
+
+}
+
+</script>

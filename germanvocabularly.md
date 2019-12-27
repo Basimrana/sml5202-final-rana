@@ -41,7 +41,7 @@ See below a table for counting in German 1-20 after which there will be a link p
 <p>Follow the link below to an external website to further practice pronunciations</p>
 <a href="https://www.youtube.com/watch?v=JoMqhdYcgZ4">German counting 1-20</a>
 
-<h2>German Verbs and Adjectives</h2>
+<h2>German Verbs with Explanation</h2>
 <p>In order to understand verbs it is essential to break them down. In order to conjugate a verb, you first need to identify the verb stem. The stem is the part of the verb that, in most cases, remains constant. In German, you usually find the stem by taking the infinitive of the verb and removing the –en, or -n ending.
 
 German verbs can fall in two categories:
@@ -114,3 +114,7 @@ document.getElementById("demo").innerHTML = text;
 }
 
 </script>
+<p>Here are a few recommended videos for further study on German verbs</p>
+<a href="https://www.youtube.com/watch?v=AJxieXyATaY">German lesson on 100 verbs</a>
+<a href="https://www.youtube.com/watch?v=a0ddmj8N3ns">German verb pronunciations</a>
+<a href="https://www.youtube.com/watch?v=VFgreeRqSkg">25 must know German verbs</a>

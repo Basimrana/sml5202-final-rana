@@ -51,7 +51,7 @@ German verbs can fall in two categories:
 </ul>
 Weak verbs are regular verbs and their stem never changes.
 Strong verbs change their stem. The stem may only change in the past tense conjugation or in the present tense as well. <br>
-Let's see these two groups in more detail.
+Let's see these two groups in more detail. <br>
 German weak verbs; <br>
 As we've seen, weak verbs are entirely regular, and the good news is that the majority of German verbs fall in this category. To find their stem, you simply remove the -en or -n ending. Here are a few example verbs.</p>
 <p>

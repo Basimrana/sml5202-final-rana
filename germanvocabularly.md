@@ -39,4 +39,4 @@ See below a table for counting in German 1-20 after which there will be a link p
   </table>
 </p>
 <p>Follow the link below to an external website to further practice pronunciations</p>
-<a href="https://www.youtube.com/watch?v=JoMqhdYcgZ4">Visit this Youtube video for a short lesson</a>
+<a href="https://www.youtube.com/watch?v=JoMqhdYcgZ4">German counting 1-20</a>

@@ -133,3 +133,6 @@ document.getElementById("demo").innerHTML = text;
   <tr><td>Sunday</td><td>Sonntag</td></tr>
 </table>
 </p>
+<audio controls>
+  <source src="https://basimrana.github.io/sml5202-final-rana/assets/daysoftheweek.mp3" type="audio/mpeg">
+  </audio>

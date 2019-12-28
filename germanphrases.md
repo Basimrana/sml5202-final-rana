@@ -46,3 +46,39 @@ Let's end with the best way to end a pleasant conversation politely. This is ano
 <p>Now try out an H5P speak the word exercise to practice</p>
 <iframe src="https://h5p.org/h5p/embed/686254" width="1090" height="310" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
 
+<p>As now you can express yourself with some basic German phrases, lets look at a few getting around phrases to help you navigate in Germany and be able to interact with shopkeepers and taxi drivers and more.</p>
+
+<ol>
+  <li>Haben Sie Andenken?<br>
+Do you have souvenirs? 
+</li>
+  <li>Wie viel kostet das? <br>
+How much is that? 
+</li>
+  <li>Einen Tisch für [zwei/drei/vier], bitte <br>
+A table for [two/three/four], please
+</li>
+<li>Ein Glas Wasser, bitte <br>
+A glass of water, please
+</li>
+<li>Entschuldigung, wo ist…?<br>
+Excuse me, where is…?
+</li>
+<li>Bringen Sie mich bitte zu dieser Adresse<br>
+Please bring me to this address
+ </li>
+<li>Zum Bahnhof, bitte<br>
+To the train station, please
+</li>
+<li>Halten Sie bitte hier an<br>
+Please stop here
+</li>
+<li>Darf ich bitte einen Stadtplan haben?<br>
+May I have a city map please? 
+</li>
+<li>Ich hätte gern ein Zimmer<br>
+I would like a room
+</li>
+</ol>
+<p>See below an audio to practice these phrases</p>
+

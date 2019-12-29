@@ -156,7 +156,7 @@
 
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>
-  <a href="germanphrases.html">Page 4</a> <br>
-  <a href="germanvocabularly.html">Page 3</a> <br>
+<a href="germanvocabularly.html">Page 3</a>  <br>
+<a href="germanphrases.html">Page 4</a> <br>
   <a href="furtherstudy.html">Page 6</a>
 </p>

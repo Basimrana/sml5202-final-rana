@@ -2,6 +2,7 @@
 
 <p>It is always better to broaden your knowledge by looking at various language learning website to help strengthen German language skills. Let's look at some useful learning resources.</p>
 
+<h2>Language learning resources</h2>
 <ul>
 <li><a href="http://www.bbc.co.uk/languages/german/">BBC German language</a><br>
 BBC website is one of the most useful learning resources out there, it is easy to use and provides neccessary resources for a beginner to learn the German langugae. Each page contains different materials for learning and the site is easy to navigate as there are links provided at the end of the page to navigate back to any desired page. The website has a total of 9 topics with breif description provide each. The site is rich with Multimedia and provides audio as well as video support to aid learners and help them with proninciation. </li>
@@ -16,7 +17,6 @@ Reverso German-English dictionary for mobile enables you to translate directly f
 </li>
 <li><a href="https://www.collinsdictionary.com/dictionary/english-german">Collins German Dictionary</a><br>
 Dictionaries are basic and useful because if they are up-to-date they can help us understand what someone might mean when they use a particular word, or they help scholars understand how a word used to be used if the dictionary is regarding word usage of an earlier place, language or time.A good dictionary can help you understand your language better, improve your communication and improve your skills by making sure you are using words correctly.<li>
-</ul>
 
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>

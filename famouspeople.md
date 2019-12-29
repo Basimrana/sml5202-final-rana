@@ -150,3 +150,13 @@
 
 **Boris Becker**
 <p>Boris Franz Becker (born 22 November 1967) is a German former world No. 1 professional tennis player. He was successful from the start of his career, winning the first of his six major singles titles at age 17. His Grand Slam singles titles included three Wimbledons, two Australian Opens and one US Open. He also won five year-end championships, 13 Masters Series titles and an Olympic gold medal in doubles. In 1989 he was voted the Player of the Year by both the ATP and the ITF. At times Becker struggled with his early success and fame, and his personal life has been turbulent. Since his playing career ended, he has engaged in numerous ventures, including coaching Novak Djokovic for three years, and working in the field of poker. Boris Becker was born in Leimen, a town in the German State Baden-Württemberg, as son of Elvira and Karl-Heinz Becker. His mother was Catholic, and they raised him as a Catholic. His father Karl-Heinz, an architect, founded a tennis centre in Leimen, where Boris learned the game. He received his secondary education at Helmholtz-Gymnasium in Heidelberg. (<a href="https://en.wikipedia.org/wiki/Boris_Becker">Wikipedia</a>) </p>
+
+<p>Now complete a Quiz on these famous people</p>
+<iframe src="https://h5p.org/h5p/embed/686690" width="1090" height="361" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>
+  <a href="aboutgermany.html">Page 2</a> <br>
+  <a href="germanphrases.html">Page 4</a> <br>
+  <a href="germanvocabularly.html">Page 3</a> <br>
+  <a href="furtherstudy.html">Page 6</a>
+</p>

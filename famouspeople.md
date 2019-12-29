@@ -42,7 +42,7 @@
 <div class="row">
   <div class="column">
     <h2>Albert Einstein</h2>
-    <p><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiK8K7689nmAhVPUhoKHXc2BP4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.space.com%2F15524-albert-einstein.html&psig=AOvVaw0-_Y7oYAPiM_ONJXz74Jxo&ust=1577676190373312" /></p>
+    <p>https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTU2OTAxOTAz/albert-einstein-9285408-1-402.jpg/></p>
   </div>
   <div class="column">
   

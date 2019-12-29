@@ -16,7 +16,7 @@ This site is perfect to broaden your horizon of learning and for students who pr
 Reverso German-English dictionary for mobile enables you to translate directly from your mobile phone words and expressions. You will get, among the results, users contributions to Reverso dictionary including familiar expressions, slang, technical terms or examples of translations in context.
 </li>
 <li><a href="https://www.collinsdictionary.com/dictionary/english-german">Collins German Dictionary</a><br>
-Dictionaries are basic and useful because if they are up-to-date they can help us understand what someone might mean when they use a particular word, or they help scholars understand how a word used to be used if the dictionary is regarding word usage of an earlier place, language or time.A good dictionary can help you understand your language better, improve your communication and improve your skills by making sure you are using words correctly.<li>
+Dictionaries are basic and useful because if they are up-to-date they can help us understand what someone might mean when they use a particular word, or they help scholars understand how a word used to be used if the dictionary is regarding word usage of an earlier place, language or time.A good dictionary can help you understand your language better, improve your communication and improve your skills by making sure you are using words correctly.</li>
 </ul>
 <p>
   <a href="aboutgermany.html">Page 2</a> <br>

@@ -42,7 +42,7 @@
 <div class="row">
   <div class="column">
     <h2>Albert Einstein</h2>
-    <p>https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTU2OTAxOTAz/albert-einstein-9285408-1-402.jpg/></p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg" /></p>
   </div>
   <div class="column">
   

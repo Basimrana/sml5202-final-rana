@@ -4,10 +4,8 @@
 
 <ul>
 <li>BBC German Language<br>
-BBC website is one of the most useful learning resources out there, it is easy to use and provides neccessary resources for a beginner to learn the German langugae. Each page contains different materials for learning and the site is easy to navigate as there are links provided at the end of the page to navigate back to any desired page. The website has a total of 9 topics with breif description provide each. The site is rich with Multimedia and provides audio as well as video support to aid learners and help them with proninciation. 
-(<a href="http://www.bbc.co.uk/languages/german/"">BBC German Language</a>)
-</li>
-<li>Meet Cristiano Ronaldo</li>
+BBC website is one of the most useful learning resources out there, it is easy to use and provides neccessary resources for a beginner to learn the German langugae. Each page contains different materials for learning and the site is easy to navigate as there are links provided at the end of the page to navigate back to any desired page. The website has a total of 9 topics with breif description provide each. The site is rich with Multimedia and provides audio as well as video support to aid learners and help them with proninciation. </li>
+<li>Udemy</li>
 </ul>
 
 
